@@ -6,7 +6,7 @@ The following projects are a collection of SQL projects that I have worked on to
 # Projects
 
 ## [1_EDA/](./1_EDA/) - Exploratory Data Analysis
-![EDA Project Overview](../Resources/images/1_1_Project1_EDA.png)
+![EDA Project Overview](../images/1_1_Project1_EDA.png)
 SQL-driven analysis of data engineer job market trends using advanced querying techniques.
 
 **Skills**: Complex joins, aggregations, analytical functions, data quality validation
